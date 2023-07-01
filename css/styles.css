@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    background-color: lightgoldenrodyellow;
+}
+
+.verde{
+    background-color: lightgreen;
+    border: solid 1px blue ;
+    
+}
+
+.blue{
+    background-color: blue;
+    padding: 5px;
+}
+
+.alturaSlider{
+    height: 500px;
+}
+
+.alturaSection{
+    height: 300px;
+}
+
+.centrarSlider{
+    display: flex;
+    justify-content: center;
+}
